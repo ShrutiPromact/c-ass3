@@ -1,0 +1,7 @@
+C:\Users\Shruti\source\repos\EnglishDictonary1\EnglishDictonary1\bin\Debug\EnglishDictonary1.exe.config
+C:\Users\Shruti\source\repos\EnglishDictonary1\EnglishDictonary1\bin\Debug\EnglishDictonary1.exe
+C:\Users\Shruti\source\repos\EnglishDictonary1\EnglishDictonary1\bin\Debug\EnglishDictonary1.pdb
+C:\Users\Shruti\source\repos\EnglishDictonary1\EnglishDictonary1\obj\Debug\EnglishDictonary1.csprojResolveAssemblyReference.cache
+C:\Users\Shruti\source\repos\EnglishDictonary1\EnglishDictonary1\obj\Debug\EnglishDictonary1.csproj.CoreCompileInputs.cache
+C:\Users\Shruti\source\repos\EnglishDictonary1\EnglishDictonary1\obj\Debug\EnglishDictonary1.exe
+C:\Users\Shruti\source\repos\EnglishDictonary1\EnglishDictonary1\obj\Debug\EnglishDictonary1.pdb
